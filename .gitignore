@@ -44,9 +44,11 @@ app.*.map.json
 /android/app/release
 
 # Exclude all files containing sensitive data from pushed to remote
-/.env
-lib/envie_files/app_env.dart
-lib/envie_files/env.dart
-lib/envie_files/env.g.dart
+# For the purpose of the example I'm commenting those files
+# In a real project the following files should be excluded
+#/.env
+#lib/envie_files/app_env.dart
+#lib/envie_files/env.dart
+#lib/envie_files/env.g.dart
 
 
