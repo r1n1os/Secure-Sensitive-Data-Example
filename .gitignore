@@ -46,6 +46,7 @@ app.*.map.json
 # Exclude all files containing sensitive data from pushed to remote
 /.env
 lib/envie_files/app_env.dart
-lib/envie_files/Env.dart
-lib/envie_files/Env.g.dart.dart
+lib/envie_files/env.dart
+lib/envie_files/env.g.dart
+
 
