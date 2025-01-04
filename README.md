@@ -1,8 +1,11 @@
-# Secure-Sensitive-Data-Example
-This is an example project demostrating how you can easyly keep sensitive data secure on client side in Flutter using Envied package
+## Secure-Sensitive-Data-Example
+Secure Sensitive Data Example project demostrates how you can easyly keep sensitive data secure on client side in Flutter using Envied package.
 
-### Feel free to checkout the relevant article in my medium page: 
-https://medium.com/@r1n1os/securing-sensitive-data-in-flutter-d0a8e060a11e
+> [!NOTE]
+This project focuses solely on the setup and configuration steps for the Envied package. It does not include any elaborate UI. It simply displays a text output of the secured value to confirm that the implementation functions as expected.  
 
-## References:
- * Package page: [ https://docs.spacexdata.com/?version=latest#16c58b5e-44de-4183-b858-0fae51d242a5](https://pub.dev/packages/envied)https://pub.dev/packages/envied
+### How to Explore This Project
+For a clearer understanding of the steps required to set up and secure your data on the client side, it's recommended to read the relevant [Medium Article](https://medium.com/@r1n1os/securing-sensitive-data-in-flutter-d0a8e060a11e) In the article, I explain the process followed in this example project in detail.
+
+### References:
+ * [Package page](https://pub.dev/packages/envied) 
